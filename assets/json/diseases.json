@@ -1,0 +1,122 @@
+{  
+  "diseases":[  
+     {
+        "id": 1,
+        "name": "Gripe",
+        "image": "assets/img/w873xy47tb.jpg",
+        "etiological_agent":"Influenza",
+        "vector":[  
+
+        ],
+        "transmission_mode":[  
+           "Contato direto com indivíduos infectados",
+           "Contato com objetos contaminados",
+           "Inalação de ar contaminado"
+        ],
+        "host":{  
+           "definitive":[  
+
+           ],
+           "intermediary":[  
+
+           ]
+        },
+        "symptoms":[  
+           "Febre",
+           "Calafrios",
+           "Dores Musuclares",
+           "Tosse",
+           "Congestão",
+           "Coriza",
+           "Dores de Cabeça",
+           "Fadiga"
+        ],
+        "treatment":[  
+           "Repouso em cama",
+           "Hidratação",
+           "Lavagem Nasal",
+           "Uso de Anti-histamínico, Descongestionante nasal, Anti-inflamatórios não esteroides, Analgésico"
+        ],
+        "prophylaxis":[  
+           "Vacina",
+           "Lavar as mãos regularmente",
+           "Evitar locais com aglomeração de pessoas"
+        ]
+     },
+     {
+        "id": 2,
+        "name": "Dengue",
+        "image": "assets/img/ayu3tx673t.jpg"
+     },
+     {
+        "id": 3,
+        "name": "Febre Amarela",
+        "image": "assets/img/623b4674b.jpg" 
+     },
+     {
+        "id": 4,
+        "name": "Variola",
+        "image": "assets/img/7t2bx37tbx3.jpg" 
+     },
+     {
+        "id": 5,
+        "name": "Herpes Simples",
+        "image": "assets/img/ayu3tx673t.jpg" 
+     },
+     {
+        "id": 6,
+        "name": "Catapora",
+        "image": "assets/img/ayu3tx673t.jpg" 
+     },
+     {
+        "id": 7,
+        "name": "Herpes Zoster",
+        "image": "assets/img/ayu3tx673t.jpg" 
+     },
+     {
+        "id": 8,
+        "name": "Mononucleoso",
+        "image": "assets/img/ayu3tx673t.jpg" 
+     },
+     {
+        "id": 9,
+        "name": "Câncer Genital",
+        "image": "assets/img/ayu3tx673t.jpg" 
+     },
+     {
+        "id": 10,
+        "name": "Rubéola",
+        "image": "assets/img/ayu3tx673t.jpg" 
+     },
+     {
+        "id": 11,
+        "name": "Resfriado",
+        "image": "assets/img/ayu3tx673t.jpg" 
+     },
+     {
+        "id": 12,
+        "name": "Poliomielite",
+        "image": "assets/img/ayu3tx673t.jpg" 
+     },
+     {
+        "id": 13,
+        "name": "Hepatite",
+        "image": "assets/img/ayu3tx673t.jpg" 
+     },
+     {
+        "id": 14,
+        "name": "Sarampo",
+        "image": "assets/img/ayu3tx673t.jpg" 
+     },
+     {
+        "id": 15,
+        "name": "Caxumba",
+        "image": "assets/img/ayu3tx673t.jpg" 
+     },
+     {
+        "id": 16,
+        "name": "Raiva",
+        "image": "assets/img/ayu3tx673t.jpg" 
+     }
+  ]
+}
