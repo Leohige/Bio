@@ -4,9 +4,9 @@
         "id": 1,
         "name": "Gripe",
         "image": "assets/img/w873xy47tb.jpg",
-        "etiological_agent":"Influenza",
-        "vector":[  
-
+        "etiological_agent": "Influenza",
+        "vector":[
+           "-"
         ],
         "transmission_mode":[  
            "Contato direto com indivíduos infectados",
@@ -15,10 +15,10 @@
         ],
         "host":{  
            "definitive":[  
-
+              "-"
            ],
-           "intermediary":[  
-
+           "intermediary":[
+              "-"
            ]
         },
         "symptoms":[  
@@ -46,77 +46,437 @@
      {
         "id": 2,
         "name": "Dengue",
-        "image": "assets/img/ayu3tx673t.jpg"
+        "image": "assets/img/ayu3tx673t.jpg",
+        "etiological_agent": "",
+        "vector":[
+           ""
+        ],
+        "transmission_mode":[  
+           ""
+        ],
+        "host":{  
+           "definitive":[  
+              ""
+           ],
+           "intermediary":[
+              ""
+           ]
+        },
+        "symptoms":[  
+           ""
+        ],
+        "treatment":[
+           ""
+        ],
+        "prophylaxis":[  
+           ""
+        ]
      },
      {
         "id": 3,
         "name": "Febre Amarela",
-        "image": "assets/img/623b4674b.jpg" 
+        "image": "assets/img/623b4674b.jpg",
+        "etiological_agent": "",
+        "vector":[
+           ""
+        ],
+        "transmission_mode":[  
+           ""
+        ],
+        "host":{  
+           "definitive":[  
+              ""
+           ],
+           "intermediary":[
+              ""
+           ]
+        },
+        "symptoms":[  
+           ""
+        ],
+        "treatment":[
+           ""
+        ],
+        "prophylaxis":[  
+           ""
+        ]
      },
      {
         "id": 4,
         "name": "Variola",
-        "image": "assets/img/7t2bx37tbx3.jpg" 
+        "image": "assets/img/7t2bx37tbx3.jpg" ,
+        "etiological_agent": "",
+        "vector":[
+           ""
+        ],
+        "transmission_mode":[  
+           ""
+        ],
+        "host":{  
+           "definitive":[  
+              ""
+           ],
+           "intermediary":[
+              ""
+           ]
+        },
+        "symptoms":[  
+           ""
+        ],
+        "treatment":[
+           ""
+        ],
+        "prophylaxis":[  
+           ""
+        ]
      },
      {
         "id": 5,
         "name": "Herpes Simples",
-        "image": "assets/img/ayu3tx673t.jpg" 
+        "image": "assets/img/83465c87.jpg",
+        "etiological_agent": "",
+        "vector":[
+           ""
+        ],
+        "transmission_mode":[  
+           ""
+        ],
+        "host":{  
+           "definitive":[  
+              ""
+           ],
+           "intermediary":[
+              ""
+           ]
+        },
+        "symptoms":[  
+           ""
+        ],
+        "treatment":[
+           ""
+        ],
+        "prophylaxis":[  
+           ""
+        ]
      },
      {
         "id": 6,
         "name": "Catapora",
-        "image": "assets/img/ayu3tx673t.jpg" 
+        "image": "assets/img/27t4bx723.jpg",
+        "etiological_agent": "",
+        "vector":[
+           ""
+        ],
+        "transmission_mode":[  
+           ""
+        ],
+        "host":{  
+           "definitive":[  
+              ""
+           ],
+           "intermediary":[
+              ""
+           ]
+        },
+        "symptoms":[  
+           ""
+        ],
+        "treatment":[
+           ""
+        ],
+        "prophylaxis":[  
+           ""
+        ] 
      },
      {
         "id": 7,
         "name": "Herpes Zoster",
-        "image": "assets/img/ayu3tx673t.jpg" 
+        "image": "assets/img/ayu3tx673t.jpg",
+        "etiological_agent": "",
+        "vector":[
+           ""
+        ],
+        "transmission_mode":[  
+           ""
+        ],
+        "host":{  
+           "definitive":[  
+              ""
+           ],
+           "intermediary":[
+              ""
+           ]
+        },
+        "symptoms":[  
+           ""
+        ],
+        "treatment":[
+           ""
+        ],
+        "prophylaxis":[  
+           ""
+        ]
      },
      {
         "id": 8,
         "name": "Mononucleoso",
-        "image": "assets/img/ayu3tx673t.jpg" 
+        "image": "assets/img/ayu3tx673t.jpg",
+        "etiological_agent": "",
+        "vector":[
+           ""
+        ],
+        "transmission_mode":[  
+           ""
+        ],
+        "host":{  
+           "definitive":[  
+              ""
+           ],
+           "intermediary":[
+              ""
+           ]
+        },
+        "symptoms":[  
+           ""
+        ],
+        "treatment":[
+           ""
+        ],
+        "prophylaxis":[  
+           ""
+        ]
      },
      {
         "id": 9,
         "name": "Câncer Genital",
-        "image": "assets/img/ayu3tx673t.jpg" 
+        "image": "assets/img/ayu3tx673t.jpg",
+        "etiological_agent": "",
+        "vector":[
+           ""
+        ],
+        "transmission_mode":[  
+           ""
+        ],
+        "host":{  
+           "definitive":[  
+              ""
+           ],
+           "intermediary":[
+              ""
+           ]
+        },
+        "symptoms":[  
+           ""
+        ],
+        "treatment":[
+           ""
+        ],
+        "prophylaxis":[  
+           ""
+        ]
      },
      {
         "id": 10,
         "name": "Rubéola",
-        "image": "assets/img/ayu3tx673t.jpg" 
+        "image": "assets/img/7q34tbc.jpg",
+        "etiological_agent": "",
+        "vector":[
+           ""
+        ],
+        "transmission_mode":[  
+           ""
+        ],
+        "host":{  
+           "definitive":[  
+              ""
+           ],
+           "intermediary":[
+              ""
+           ]
+        },
+        "symptoms":[  
+           ""
+        ],
+        "treatment":[
+           ""
+        ],
+        "prophylaxis":[  
+           ""
+        ]
      },
      {
         "id": 11,
         "name": "Resfriado",
-        "image": "assets/img/ayu3tx673t.jpg" 
+        "image": "assets/img/4985cyn.jpg",
+        "etiological_agent": "",
+        "vector":[
+           ""
+        ],
+        "transmission_mode":[  
+           ""
+        ],
+        "host":{  
+           "definitive":[  
+              ""
+           ],
+           "intermediary":[
+              ""
+           ]
+        },
+        "symptoms":[  
+           ""
+        ],
+        "treatment":[
+           ""
+        ],
+        "prophylaxis":[  
+           ""
+        ]
      },
      {
         "id": 12,
         "name": "Poliomielite",
-        "image": "assets/img/ayu3tx673t.jpg" 
+        "image": "assets/img/ayu3tx673t.jpg",
+        "etiological_agent": "",
+        "vector":[
+           ""
+        ],
+        "transmission_mode":[  
+           ""
+        ],
+        "host":{  
+           "definitive":[  
+              ""
+           ],
+           "intermediary":[
+              ""
+           ]
+        },
+        "symptoms":[  
+           ""
+        ],
+        "treatment":[
+           ""
+        ],
+        "prophylaxis":[  
+           ""
+        ]
      },
      {
         "id": 13,
         "name": "Hepatite",
-        "image": "assets/img/ayu3tx673t.jpg" 
+        "image": "assets/img/34tc4tc.jpg",
+        "etiological_agent": "",
+        "vector":[
+           ""
+        ],
+        "transmission_mode":[  
+           ""
+        ],
+        "host":{  
+           "definitive":[  
+              ""
+           ],
+           "intermediary":[
+              ""
+           ]
+        },
+        "symptoms":[  
+           ""
+        ],
+        "treatment":[
+           ""
+        ],
+        "prophylaxis":[  
+           ""
+        ]
      },
      {
         "id": 14,
         "name": "Sarampo",
-        "image": "assets/img/ayu3tx673t.jpg" 
+        "image": "assets/img/287rxy2x4.jpg",
+        "etiological_agent": "",
+        "vector":[
+           ""
+        ],
+        "transmission_mode":[  
+           ""
+        ],
+        "host":{  
+           "definitive":[  
+              ""
+           ],
+           "intermediary":[
+              ""
+           ]
+        },
+        "symptoms":[  
+           ""
+        ],
+        "treatment":[
+           ""
+        ],
+        "prophylaxis":[  
+           ""
+        ]
      },
      {
         "id": 15,
         "name": "Caxumba",
-        "image": "assets/img/ayu3tx673t.jpg" 
+        "image": "assets/img/ayu3tx673t.jpg",
+        "etiological_agent": "",
+        "vector":[
+           ""
+        ],
+        "transmission_mode":[  
+           ""
+        ],
+        "host":{  
+           "definitive":[  
+              ""
+           ],
+           "intermediary":[
+              ""
+           ]
+        },
+        "symptoms":[  
+           ""
+        ],
+        "treatment":[
+           ""
+        ],
+        "prophylaxis":[  
+           ""
+        ] 
      },
      {
         "id": 16,
         "name": "Raiva",
-        "image": "assets/img/ayu3tx673t.jpg" 
+        "image": "assets/img/783tc784yn.jpg",
+        "etiological_agent": "",
+        "vector":[
+           ""
+        ],
+        "transmission_mode":[  
+           ""
+        ],
+        "host":{  
+           "definitive":[  
+              ""
+           ],
+           "intermediary":[
+              ""
+           ]
+        },
+        "symptoms":[  
+           ""
+        ],
+        "treatment":[
+           ""
+        ],
+        "prophylaxis":[  
+           ""
+        ]
      }
   ]
 }
