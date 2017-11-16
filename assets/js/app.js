@@ -67,19 +67,6 @@ function configureButtons(){
   });
 }
 
-function createAllCards(){
-  $.each(getDiseases(), function(i, disease) {
-    createCard(disease);
-  })
-}
-
-function configureButtons(){
-  $(".view").click(function() {
-    let id = $(this).val();
-    createModal(id);
-  });
-}
-
 function createThatCards(diseases){
   removeMsg();
 
