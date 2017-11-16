@@ -4,7 +4,7 @@ $(document).ready(function(){
     localStorage.setItem('diseases', JSON.stringify(data.diseases));
   })
     .done(function() {
-      createThatCards(getDiseases());
+      createThatCards(getAllDiseases());
       configureSearch();
     })
     .fail(function() {
@@ -29,7 +29,7 @@ function configureSearch(){
 function makeSearch(name){
   let cards = [];
 
-  $.each(getDiseases(), function(i, disease) {
+  $.each(getAllDiseases(), function(i, disease) {
     let result = disease.name.toUpperCase().match(new RegExp(name.toUpperCase(), 'g'));
 
     if ((result != undefined) && (result.length > 0)){
@@ -51,7 +51,7 @@ function makeSearch(name){
 function getMissingDiseases(){
   cards = [];
 
-  $.each(getDiseases(), function(i, disease){
+  $.each(getAllDiseases(), function(i, disease){
     if ($('.' + disease.id).length == 0){
       cards.push(disease);
     }
@@ -92,14 +92,14 @@ function createModal(id){
   $('#disease-modal').modal('show');
 }
 
-function getDiseases(){
+function getAllDiseases(){
   return JSON.parse(localStorage.getItem('diseases'));
 }
 
 function getDiseaseById(id){
   let result = undefined;
 
-  $.each(getDiseases(), function(i, disease) {
+  $.each(getAllDiseases(), function(i, disease) {
     if (disease.id == id){
       result = disease;
       return
