@@ -63,7 +63,7 @@ function getMissingDiseases(){
 function configureButtons(){
   $(".view").click(function() {
     let id = $(this).val();
-    createModal(getDiseaseById(id));
+    createModal(id);
   });
 }
 
