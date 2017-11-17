@@ -47,174 +47,174 @@
         "id": 2,
         "name": "Dengue",
         "image": "assets/img/ayu3tx673t.jpg",
-        "etiological_agent": "",
+        "etiological_agent": "Flavivirus, família Flaviviridae",
         "vector":[
-           ""
+           "Fêmeas de mosquitos culicídeos pertencentes ao gênero Aedes"
         ],
         "transmission_mode":[  
-           ""
+           "Mosquito Aedes aegypti"
         ],
         "host":{  
            "definitive":[  
-              ""
+              "Homem"
            ],
            "intermediary":[
-              ""
+              "Mosquito Aedes aegypti"
            ]
         },
         "symptoms":[  
-           ""
+           "Febre alta, erupções cutâneas e dores musculares e articulares"
         ],
         "treatment":[
-           ""
+           "O tratamento inclui ingestão de líquidos e analgésicos."
         ],
         "prophylaxis":[  
-           ""
+           "Combater os focos de acúmulo de água, locais propícios para a criação do mosquito transmissor da doença."
         ]
      },
      {
         "id": 3,
         "name": "Febre Amarela",
         "image": "assets/img/623b4674b.jpg",
-        "etiological_agent": "",
+        "etiological_agent": "Virus amarilico, arbovirus do gênero Flavivirus e família Flaviviridae (RNA)",
         "vector":[
-           ""
+           "Mosquito do gênero Haemagogus janthinomys"
         ],
         "transmission_mode":[  
-           ""
+           "Mosquito Aedes aegypti"
         ],
         "host":{  
            "definitive":[  
-              ""
+              "Homem"
            ],
            "intermediary":[
-              ""
+              "Mosquito Aedes aegypti"
            ]
         },
         "symptoms":[  
-           ""
+           "Os casos leves causam febre, dor de cabeça, náuseas e vômitos. Os casos graves podem causar doenças cardíacas, hepáticas e renais fatais."
         ],
         "treatment":[
-           ""
+           "-"
         ],
         "prophylaxis":[  
-           ""
+           "Vacinação "
         ]
      },
      {
         "id": 4,
         "name": "Variola",
         "image": "assets/img/7t2bx37tbx3.jpg" ,
-        "etiological_agent": "",
+        "etiological_agent": "Orthopoxvirus, da subfamilia Chordopoxvirinae da família Poxviridae (DNA)",
         "vector":[
-           ""
+           "-"
         ],
         "transmission_mode":[  
-           ""
+           "Pelo ar por meio de gotículas que escapam quando uma pessoa infectada tosse, espirra ou fala."
         ],
         "host":{  
            "definitive":[  
-              ""
+              "Homem"
            ],
            "intermediary":[
-              ""
+              "-"
            ]
         },
         "symptoms":[  
-           ""
+           "Erupção cutânea que aparece primeiro no rosto, nas mãos e nos antebraços e, posteriormente, no tronco, dores no corpo, vômitos intensos, diarreia"
         ],
         "treatment":[
-           ""
+           "Medicamentos que garantam o alívio da coceira e da dor"
         ],
         "prophylaxis":[  
-           ""
+           "Vacinação"
         ]
      },
      {
         "id": 5,
         "name": "Herpes Simples",
-        "image": "assets/img/83465c87.jpg",
-        "etiological_agent": "",
+        "image": "assets/img/d23y2dh.jpg",
+        "etiological_agent": "Vírus herpes simples (HSV)",
         "vector":[
-           ""
+           "-"
         ],
         "transmission_mode":[  
-           ""
+           "Contato entre pessoas, através da saliva, perdigotos (gotículas de saliva geralmente de espirros), pele ou lábios do paciente contaminado"
         ],
         "host":{  
            "definitive":[  
-              ""
+              "Homem"
            ],
            "intermediary":[
-              ""
+              "-"
            ]
         },
         "symptoms":[  
-           ""
+           "Ferida no lábios, bolhas sensíveis, dor na boca e coceira e vermelhidão no canto na boca"
         ],
         "treatment":[
-           ""
+           "-"
         ],
         "prophylaxis":[  
-           ""
+           "Manter os lábios hidratados durante o inverno e protegidos por um filtro solar durante o verão e sob sol intenso."
         ]
      },
      {
         "id": 6,
         "name": "Catapora",
         "image": "assets/img/27t4bx723.jpg",
-        "etiological_agent": "",
+        "etiological_agent": "Varicela-zóster, um integrante da família do herpes-vírus",
         "vector":[
-           ""
+           "-"
         ],
         "transmission_mode":[  
-           ""
+           "Pelo contato direto ou através do ar quando uma pessoa infectada tosse ou espirra"
         ],
         "host":{  
            "definitive":[  
-              ""
+              "Humano"
            ],
            "intermediary":[
-              ""
+              "-"
            ]
         },
         "symptoms":[  
-           ""
+           "Irritação cutânea com bolhas na pele, fadiga, febre, mal-estar ou perda de apetite, coceira, dor de garganta ou pus"
         ],
         "treatment":[
-           ""
+           "Remédios para deminuir dor e coceira"
         ],
         "prophylaxis":[  
-           ""
+           "Evitar contato com pessoas contaminadas"
         ] 
      },
      {
         "id": 7,
         "name": "Herpes Zoster",
-        "image": "assets/img/ayu3tx673t.jpg",
-        "etiological_agent": "",
+        "image": "assets/img/83465c87.jpg",
+        "etiological_agent": "Varicela-zoster (RNA)",
         "vector":[
-           ""
+           "-"
         ],
         "transmission_mode":[  
-           ""
+           "Através de contato direto ou através de secreções respiratórias e, raramente, através de contato com lesões"
         ],
         "host":{  
            "definitive":[  
-              ""
+              "Homem"
            ],
            "intermediary":[
-              ""
+              "-"
            ]
         },
         "symptoms":[  
-           ""
+           "Bolha, erupções cutâneas na face, vermelhidão, úlceras, excesso de sensibilidade ou formigamento, dores agudas na pele, coceira, mal-estar ou sensação de queimação"
         ],
         "treatment":[
-           ""
+           "Medicamentos analgésicos e antivirais"
         ],
         "prophylaxis":[  
-           ""
+           "Vacinação"
         ]
      },
      {
@@ -249,7 +249,7 @@
      {
         "id": 9,
         "name": "Câncer Genital",
-        "image": "assets/img/ayu3tx673t.jpg",
+        "image": "assets/img/78euehde.jpg",
         "etiological_agent": "",
         "vector":[
            ""
@@ -336,7 +336,7 @@
      {
         "id": 12,
         "name": "Poliomielite",
-        "image": "assets/img/ayu3tx673t.jpg",
+        "image": "assets/img/ewyd23y8dh.jpg",
         "etiological_agent": "",
         "vector":[
            ""
@@ -423,7 +423,7 @@
      {
         "id": 15,
         "name": "Caxumba",
-        "image": "assets/img/ayu3tx673t.jpg",
+        "image": "assets/img/weui32.jpg",
         "etiological_agent": "",
         "vector":[
            ""
