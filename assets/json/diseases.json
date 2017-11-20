@@ -6,7 +6,7 @@
         "image": "assets/img/w873xy47tb.jpg",
         "etiological_agent": "Influenza",
         "vector":[
-           "-"
+           "Não possui"
         ],
         "transmission_mode":[  
            "Contato direto com indivíduos infectados",
@@ -15,10 +15,10 @@
         ],
         "host":{  
            "definitive":[  
-              "-"
+              "Não possui"
            ],
            "intermediary":[
-              "-"
+              "Não possui"
            ]
         },
         "symptoms":[  
@@ -95,7 +95,7 @@
            "Os casos leves causam febre, dor de cabeça, náuseas e vômitos. Os casos graves podem causar doenças cardíacas, hepáticas e renais fatais."
         ],
         "treatment":[
-           "-"
+           "Não possui"
         ],
         "prophylaxis":[  
            "Vacinação "
@@ -107,7 +107,7 @@
         "image": "assets/img/7t2bx37tbx3.jpg" ,
         "etiological_agent": "Orthopoxvirus, da subfamilia Chordopoxvirinae da família Poxviridae (DNA)",
         "vector":[
-           "-"
+           "Não possui"
         ],
         "transmission_mode":[  
            "Pelo ar por meio de gotículas que escapam quando uma pessoa infectada tosse, espirra ou fala."
@@ -117,7 +117,7 @@
               "Homem"
            ],
            "intermediary":[
-              "-"
+              "Não possui"
            ]
         },
         "symptoms":[  
@@ -136,7 +136,7 @@
         "image": "assets/img/d23y2dh.jpg",
         "etiological_agent": "Vírus herpes simples (HSV)",
         "vector":[
-           "-"
+           "Não possui"
         ],
         "transmission_mode":[  
            "Contato entre pessoas, através da saliva, perdigotos (gotículas de saliva geralmente de espirros), pele ou lábios do paciente contaminado"
@@ -146,14 +146,14 @@
               "Homem"
            ],
            "intermediary":[
-              "-"
+              "Não possui"
            ]
         },
         "symptoms":[  
            "Ferida no lábios, bolhas sensíveis, dor na boca e coceira e vermelhidão no canto na boca"
         ],
         "treatment":[
-           "-"
+           "Não possui"
         ],
         "prophylaxis":[  
            "Manter os lábios hidratados durante o inverno e protegidos por um filtro solar durante o verão e sob sol intenso."
@@ -165,7 +165,7 @@
         "image": "assets/img/27t4bx723.jpg",
         "etiological_agent": "Varicela-zóster, um integrante da família do herpes-vírus",
         "vector":[
-           "-"
+           "Não possui"
         ],
         "transmission_mode":[  
            "Pelo contato direto ou através do ar quando uma pessoa infectada tosse ou espirra"
@@ -175,7 +175,7 @@
               "Humano"
            ],
            "intermediary":[
-              "-"
+              "Não possui"
            ]
         },
         "symptoms":[  
@@ -194,7 +194,7 @@
         "image": "assets/img/83465c87.jpg",
         "etiological_agent": "Varicela-zoster (RNA)",
         "vector":[
-           "-"
+           "Não possui"
         ],
         "transmission_mode":[  
            "Através de contato direto ou através de secreções respiratórias e, raramente, através de contato com lesões"
@@ -204,7 +204,7 @@
               "Homem"
            ],
            "intermediary":[
-              "-"
+              "Não possui"
            ]
         },
         "symptoms":[  
@@ -223,7 +223,7 @@
         "image": "assets/img/h3dyn34n.jpg",
         "etiological_agent": "Vírus de Epstein-Barr (EBV)",
         "vector":[
-           "-"
+           "Não possui"
         ],
         "transmission_mode":[  
            "Saliva"
@@ -233,14 +233,14 @@
               "Homem"
            ],
            "intermediary":[
-              "-"
+              "Não possui"
            ]
         },
         "symptoms":[  
            "Fadiga, febre alta, angina acompnhada de dificuldades para engolir, dores de cabeça, perde da apetite, mialgia e erupções cutâneas"
         ],
         "treatment":[
-           "-"
+           "Não possui"
         ],
         "prophylaxis":[  
            "Lavar bem as mãos, não compartilhar objetos pessoais, não colocar objeto de criança na boca"
@@ -252,7 +252,7 @@
         "image": "assets/img/78euehde.jpg",
         "etiological_agent": "Papiloma virus humano (HPV)",
         "vector":[
-           "-"
+           "Não possui"
         ],
         "transmission_mode":[  
            "Contato de pele com pele"
@@ -262,7 +262,7 @@
               "Homem"
            ],
            "intermediary":[
-              "-"
+              "Não possui"
            ]
         },
         "symptoms":[  
@@ -281,7 +281,7 @@
         "image": "assets/img/7q34tbc.jpg",
         "etiological_agent": "Rubivírus, família Togaviridae",
         "vector":[
-           "-"
+           "Não possui"
         ],
         "transmission_mode":[  
            "Emissão de gotículas das secreções respiratórias dos doentes"
@@ -291,14 +291,14 @@
               "Homem"
            ],
            "intermediary":[
-              "-"
+              "Não possui"
            ]
         },
         "symptoms":[  
            "Febre, mal-estar, coriza, dor de cabeça, gânglios cervicais aumentados, manchas avermelhadas ou vermelhidão nos olhos"
         ],
         "treatment":[
-           "-"
+           "Não possui"
         ],
         "prophylaxis":[  
            "Vacinação"
@@ -310,7 +310,7 @@
         "image": "assets/img/4985cyn.jpg",
         "etiological_agent": "Rinovirus",
         "vector":[
-           "-"
+           "Não possui"
         ],
         "transmission_mode":[  
            "Por via aérea"
@@ -320,7 +320,7 @@
               "Homem"
            ],
            "intermediary":[
-              "-"
+              "Não possui"
            ]
         },
         "symptoms":[  
@@ -339,7 +339,7 @@
         "image": "assets/img/ewyd23y8dh.jpg",
         "etiological_agent": "Poliovírus (RNA)",
         "vector":[
-           "-"
+           "Não possui"
         ],
         "transmission_mode":[  
            "Contato direto pessoa-pessoa, pelas vias fecal-oral ou oral-oral, através de gotículas expelidas ou pela ingestão de água e alimentos contaminados com fezes contendo o vírus"
@@ -349,14 +349,14 @@
               "Homem"
            ],
            "intermediary":[
-              "-"
+              "Não possui"
            ]
         },
         "symptoms":[  
            "Embora a poliomielite possa causar paralisia e até mesmo a morte, a poliomelite não apresenta sintomas"
         ],
         "treatment":[
-           "-"
+           "Não possui"
         ],
         "prophylaxis":[  
            "Vacinação"
@@ -378,7 +378,7 @@
               "Homem"
            ],
            "intermediary":[
-              "-"
+              "Não possui"
            ]
         },
         "symptoms":[  
@@ -397,7 +397,7 @@
         "image": "assets/img/287rxy2x4.jpg",
         "etiological_agent": "Morbillivirus, família Paramyxoviridae (RNA)",
         "vector":[
-           "-"
+           "Não possui"
         ],
         "transmission_mode":[  
            "É transmitido diretamente de pessoa a pessoa, através das secreções nasofaríngeas, expelidas ao tossir, espirros, falar ou respirar"
@@ -407,14 +407,14 @@
               "Homem"
            ],
            "intermediary":[
-              "-"
+              "Não possui"
            ]
         },
         "symptoms":[  
            "Tosse, coriza, olhos inflamados, dor de garganta, febre e erupção cutânea com manchas vermelhas"
         ],
         "treatment":[
-           "-"
+           "Não possui"
         ],
         "prophylaxis":[  
            "Vacinação"
@@ -426,7 +426,7 @@
         "image": "assets/img/weui32.jpg",
         "etiological_agent": "Paramixovírus",
         "vector":[
-           "-"
+           "Não possui"
         ],
         "transmission_mode":[  
            "Contato direto com gotículas de saliva ou perdigotos de pessoas infectadas"
@@ -436,14 +436,14 @@
               "Homem"
            ],
            "intermediary":[
-              "-"
+              "Não possui"
            ]
         },
         "symptoms":[  
            "Glândulas salivares inchadas e doloridas, febre, dor de cabeça, fadiga e perda de apetite"
         ],
         "treatment":[
-           "-"
+           "Não possui"
         ],
         "prophylaxis":[  
            "Vacinação"
@@ -462,7 +462,7 @@
         ],
         "host":{  
            "definitive":[  
-              ""
+              "Não possui"
            ],
            "intermediary":[
               "Morcego"
@@ -472,7 +472,7 @@
            "Febre, dor de cabeça, salivação excessiva, espasmos musculares, paralisia e confusão mental"
         ],
         "treatment":[
-           "-"
+           "Não possui"
         ],
         "prophylaxis":[  
            "Vacinação"
