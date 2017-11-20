@@ -221,261 +221,261 @@
         "id": 8,
         "name": "Mononucleose",
         "image": "assets/img/h3dyn34n.jpg",
-        "etiological_agent": "",
+        "etiological_agent": "Vírus de Epstein-Barr (EBV)",
         "vector":[
-           ""
+           "-"
         ],
         "transmission_mode":[  
-           ""
+           "Saliva"
         ],
         "host":{  
            "definitive":[  
-              ""
+              "Homem"
            ],
            "intermediary":[
-              ""
+              "-"
            ]
         },
         "symptoms":[  
-           ""
+           "Fadiga, febre alta, angina acompnhada de dificuldades para engolir, dores de cabeça, perde da apetite, mialgia e erupções cutâneas"
         ],
         "treatment":[
-           ""
+           "-"
         ],
         "prophylaxis":[  
-           ""
+           "Lavar bem as mãos, não compartilhar objetos pessoais, não colocar objeto de criança na boca"
         ]
      },
      {
         "id": 9,
         "name": "Câncer Genital",
         "image": "assets/img/78euehde.jpg",
-        "etiological_agent": "",
+        "etiological_agent": "Papiloma virus humano (HPV)",
         "vector":[
-           ""
+           "-"
         ],
         "transmission_mode":[  
-           ""
+           "Contato de pele com pele"
         ],
         "host":{  
            "definitive":[  
-              ""
+              "Homem"
            ],
            "intermediary":[
-              ""
+              "-"
            ]
         },
         "symptoms":[  
-           ""
+           "Corrimento e/ou sangramento vaginal, dor durante as relações sexuais, ardência e, quando o estágio está avançado, podem aparecer ulcerações (feridas), com infecção ou não"
         ],
         "treatment":[
-           ""
+           "Cirurgia ou a radioterapia, dependendo do estágio em que se encontre a doença e dos danos causados"
         ],
         "prophylaxis":[  
-           ""
+           "Usar preservativos em relações sexuais"
         ]
      },
      {
         "id": 10,
         "name": "Rubéola",
         "image": "assets/img/7q34tbc.jpg",
-        "etiological_agent": "",
+        "etiological_agent": "Rubivírus, família Togaviridae",
         "vector":[
-           ""
+           "-"
         ],
         "transmission_mode":[  
-           ""
+           "Emissão de gotículas das secreções respiratórias dos doentes"
         ],
         "host":{  
            "definitive":[  
-              ""
+              "Homem"
            ],
            "intermediary":[
-              ""
+              "-"
            ]
         },
         "symptoms":[  
-           ""
+           "Febre, mal-estar, coriza, dor de cabeça, gânglios cervicais aumentados, manchas avermelhadas ou vermelhidão nos olhos"
         ],
         "treatment":[
-           ""
+           "-"
         ],
         "prophylaxis":[  
-           ""
+           "Vacinação"
         ]
      },
      {
         "id": 11,
         "name": "Resfriado",
         "image": "assets/img/4985cyn.jpg",
-        "etiological_agent": "",
+        "etiological_agent": "Rinovirus",
         "vector":[
-           ""
+           "-"
         ],
         "transmission_mode":[  
-           ""
+           "Por via aérea"
         ],
         "host":{  
            "definitive":[  
-              ""
+              "Homem"
            ],
            "intermediary":[
-              ""
+              "-"
            ]
         },
         "symptoms":[  
-           ""
+           "Secreção nasal, espirros, congestão, calafrios, fadiga, febre, desconforto no peito, tosse seca, perda de apetite e irritação na garganta"
         ],
         "treatment":[
-           ""
+           "Anti-inflamatórios e descongestionantes"
         ],
         "prophylaxis":[  
-           ""
+           "Lavar bem as mãos, evitar ambientes fechados"
         ]
      },
      {
         "id": 12,
         "name": "Poliomielite",
         "image": "assets/img/ewyd23y8dh.jpg",
-        "etiological_agent": "",
+        "etiological_agent": "Poliovírus (RNA)",
         "vector":[
-           ""
+           "-"
         ],
         "transmission_mode":[  
-           ""
+           "Contato direto pessoa-pessoa, pelas vias fecal-oral ou oral-oral, através de gotículas expelidas ou pela ingestão de água e alimentos contaminados com fezes contendo o vírus"
         ],
         "host":{  
            "definitive":[  
-              ""
+              "Homem"
            ],
            "intermediary":[
-              ""
+              "-"
            ]
         },
         "symptoms":[  
-           ""
+           "Embora a poliomielite possa causar paralisia e até mesmo a morte, a poliomelite não apresenta sintomas"
         ],
         "treatment":[
-           ""
+           "-"
         ],
         "prophylaxis":[  
-           ""
+           "Vacinação"
         ]
      },
      {
         "id": 13,
         "name": "Hepatite",
         "image": "assets/img/34tc4tc.jpg",
-        "etiological_agent": "",
+        "etiological_agent": "Família Hepadnaviridae (DNA)",
         "vector":[
-           ""
+           "Água contaminada"
         ],
         "transmission_mode":[  
-           ""
+           "Fecal-oral, através da ingestão de água e alimentos contaminados ou diretamente de uma pessoa para outra"
         ],
         "host":{  
            "definitive":[  
-              ""
+              "Homem"
            ],
            "intermediary":[
-              ""
+              "-"
            ]
         },
         "symptoms":[  
-           ""
+           "Fadiga, náuseas, dor abdominal, perda de apetite e febre baixa"
         ],
         "treatment":[
-           ""
+           "Medicamentos antivirais"
         ],
         "prophylaxis":[  
-           ""
+           "Vacinação"
         ]
      },
      {
         "id": 14,
         "name": "Sarampo",
         "image": "assets/img/287rxy2x4.jpg",
-        "etiological_agent": "",
+        "etiological_agent": "Morbillivirus, família Paramyxoviridae (RNA)",
         "vector":[
-           ""
+           "-"
         ],
         "transmission_mode":[  
-           ""
+           "É transmitido diretamente de pessoa a pessoa, através das secreções nasofaríngeas, expelidas ao tossir, espirros, falar ou respirar"
         ],
         "host":{  
            "definitive":[  
-              ""
+              "Homem"
            ],
            "intermediary":[
-              ""
+              "-"
            ]
         },
         "symptoms":[  
-           ""
+           "Tosse, coriza, olhos inflamados, dor de garganta, febre e erupção cutânea com manchas vermelhas"
         ],
         "treatment":[
-           ""
+           "-"
         ],
         "prophylaxis":[  
-           ""
+           "Vacinação"
         ]
      },
      {
         "id": 15,
         "name": "Caxumba",
         "image": "assets/img/weui32.jpg",
-        "etiological_agent": "",
+        "etiological_agent": "Paramixovírus",
         "vector":[
-           ""
+           "-"
         ],
         "transmission_mode":[  
-           ""
+           "Contato direto com gotículas de saliva ou perdigotos de pessoas infectadas"
         ],
         "host":{  
            "definitive":[  
-              ""
+              "Homem"
            ],
            "intermediary":[
-              ""
+              "-"
            ]
         },
         "symptoms":[  
-           ""
+           "Glândulas salivares inchadas e doloridas, febre, dor de cabeça, fadiga e perda de apetite"
         ],
         "treatment":[
-           ""
+           "-"
         ],
         "prophylaxis":[  
-           ""
+           "Vacinação"
         ] 
      },
      {
         "id": 16,
         "name": "Raiva",
         "image": "assets/img/783tc784yn.jpg",
-        "etiological_agent": "",
+        "etiological_agent": "Lyssavirus, da família Rhabdoviridae",
         "vector":[
-           ""
+           "Morcego, cães, gatos"
         ],
         "transmission_mode":[  
-           ""
+           "Mordidas ou arranhões de animais infectados"
         ],
         "host":{  
            "definitive":[  
               ""
            ],
            "intermediary":[
-              ""
+              "Morcego"
            ]
         },
         "symptoms":[  
-           ""
+           "Febre, dor de cabeça, salivação excessiva, espasmos musculares, paralisia e confusão mental"
         ],
         "treatment":[
-           ""
+           "-"
         ],
         "prophylaxis":[  
-           ""
+           "Vacinação"
         ]
      }
   ]
